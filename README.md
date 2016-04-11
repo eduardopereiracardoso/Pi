@@ -1,5 +1,5 @@
-#includ <stdio.h>
-#includ <math.h>
+#include<stdio.h>
+int main()
 
 double pi (void);
 
@@ -26,4 +26,5 @@ double pi (void) {
 return pi;
 
 }
- 
+
+
